@@ -2,8 +2,6 @@
  * 뉴스 클러스터링
  */
 
-// 파이썬 defaultdict이 그립다..
-
 const makeMultiSets = (str) =>
   str
     .toLowerCase()
